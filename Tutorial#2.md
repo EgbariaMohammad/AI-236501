@@ -29,7 +29,6 @@ def Iterative-Deeping-DFS(problems):
 **Time Complexity:** O(b^d), where 'b' is the branching factor and 'd' is the depth of the tree.
 **Space Complexity:** O(bd), where 'b' is the branching factor and 'd' is the depth of the tree.
 
-## Informed Search Algorithms
 
 ### Definitions
 **Cost of a vertex:**
